@@ -4,7 +4,7 @@ Spontaneous trips with friends is always a fun thing to plan. However, it is not
 # What it Does 
 Travel Planet can give a destination where you and your friend can meet and automatically finds the cheapest airline price. The program only requires that the address of both you and your friend so that the magic can take place. The best part about this program is that the destination given will be completely random, thus feeding into the spontaneous trip vibe.
  
- # How we Built It
+ # How We Built It
 We created Travel Planet using Java for the backend portion of the program. We used an API called TravelPayouts and used HTTP GET to retrieve information from the API. We utilized JSON to parse all of the data so that only relevent information is needed to present to the user. Java Server Pages was also used in order to make sure our Java program. 
 
 # Challenges We Ran Into

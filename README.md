@@ -1,5 +1,4 @@
 # Inspiration
-# Inspiration
 Spontaneous trips with friends is always a fun thing to plan. However, it is not so feasible when your friends are in different parts of the country. Fortunately, with Travel Planet, this process can be made more simple.  We want friends to be there for each other and what better way can that be done by meeting up with your friend and exploring a new place?
 
 # What it Does 
